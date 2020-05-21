@@ -1,6 +1,6 @@
 {
   "name": "@applicaster/react-native-render-html",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "author": "Yevhen Pashutin",
   "license": "BSD-2-Clause",
   "repository": "https://github.com/archriss/react-native-render-html",
@@ -22,7 +22,7 @@
     "prop-types": ">=15.5.10",
     "react": "*",
     "react-native": "*",
-    "react-native-webview": "*"
+    "@applicaster/react-native-webview": "6.11.2"
   },
   "devDependencies": {
     "babel-eslint": "8.2.2",
