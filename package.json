@@ -22,7 +22,7 @@
     "prop-types": ">=15.5.10",
     "react": "*",
     "react-native": "*",
-    "@applicaster/react-native-webview": "6.11.2"
+    "@applicaster/react-native-webview": "6.11.3"
   },
   "devDependencies": {
     "babel-eslint": "8.2.2",
